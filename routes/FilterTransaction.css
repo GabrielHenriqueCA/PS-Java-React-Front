@@ -1,0 +1,10 @@
+.filter-container {
+    display: flex;
+    margin-bottom: 1rem;
+  }
+
+  
+.rdt_Table {
+    background-color: black;
+    color: white;
+  }
